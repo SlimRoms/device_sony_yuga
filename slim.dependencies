@@ -18,6 +18,12 @@
         "branch": "kk4.4"
     },
     {
+        "repository": "SlimRoms/device_qcom_common",
+        "target_path": "device/qcom/common",
+        "remote": "github",
+        "branch": "kk4.4"
+    },
+    {
         "repository": "SlimRoms/hardware_qcom_audio-caf",
         "target_path": "hardware/qcom/audio-caf",
         "remote": "github",
